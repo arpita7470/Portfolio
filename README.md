@@ -4,7 +4,7 @@
 ---
 
 ## 🔗 Live Link & Preview
-* 🚀 **Live Deployment:** [View My Live Portfolio](YOUR_LIVE_PORTFOLIO_LINK_HERE)
+* 🚀 **Live Deployment:** [View My Live Portfolio](https://arpita7470.github.io/Portfolio/)
 * 📂 **GitHub Repository:** [Portfolio Repo](https://github.com/arpita7470/Portfolio)
 
 ---
